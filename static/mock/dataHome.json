@@ -1,0 +1,286 @@
+{
+  "data":[
+    {
+      "city":"北京",
+      "iconsList":[
+        {
+          "id": "01",
+          "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+          "title":"景点门票"
+        },
+        {
+          "id": "02",
+          "imgUrl":
+            "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+          "title": "必游榜单"
+        },
+        {
+          "id": "03",
+          "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/hotel.png",
+          "title": "夏日玩水"
+        },
+        {
+          "id": "04",
+          "imgUrl":
+            "https://s.qunarzz.com/homenode/images/touchheader/flight.png",
+          "title": "主题公园"
+        },
+        {
+          "id": "05",
+          "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/train.png",
+          "title": "动植物园"
+        },
+        {
+          "id": "06",
+          "imgUrl":
+            "https://s.qunarzz.com/homenode/images/touchheader/package.png",
+          "title": "故宫"
+        },
+        {
+          "id": "07",
+          "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/piao.png",
+          "title":"一日游"
+        },
+        {
+          "id": "08",
+          "imgUrl":"https://img1.qunarzz.com/piao/fusion/1803/54/35899492b1302802.png",
+          "title": "公园"
+        }
+      ],
+      "hotList":[
+        {
+          "id": "01",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+          "title":"故宫",
+          "mark":"20"
+        },
+        {
+          "id":"02",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+          "title":"十渡聚龙湾玻璃栈道",
+          "mark":"35"
+        },
+        {
+         "id": "03",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+          "title":"八达岭长城",
+          "mark":"25"
+        },
+        {
+          "id": "04",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+          "title":"水立方",
+          "mark":"14"
+        },
+        {
+          "id": "05",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+          "title":"定陵",
+          "mark":"50"
+        }
+      ],
+      "likeList":[
+        {
+          "id":"01",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_200x200_36727f69.jpg",
+          "title":"金海湖风景区",
+          "msg":"1341",
+          "pre":"18.8",
+          "map":"平谷区"
+        },
+        {
+          "id":"02",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_200x200_36727f69.jpg",
+          "title":"北京国际鲜花港",
+          "msg":"1916",
+          "pre":"24.9",
+          "map":"顺义区"
+        },
+        {
+          "id":"03",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_200x200_36727f69.jpg",
+          "title":"水立方",
+          "msg":"3263",
+          "pre":"14",
+          "map":"奥林匹克"
+        },
+        {
+          "id":"04",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_200x200_36727f69.jpg",
+          "title":"北京欢乐谷区",
+          "msg":"54671",
+         " pre":"49",
+          "map":"朝阳区"
+        }
+      ],
+      "vacationList":[
+        {
+          "id":"01",
+          "imgUrl":"http://img1.qunarzz.com/sight/source/1606/85/c6b6bad1b977e.jpg_r_640x214_5c638941.jpg",
+         "title":"漂流勇进，烧烤露营",
+          "msg":"轻松水上漂，任我乐逍遥"
+        },
+        {
+          "id":"02",
+          "imgUrl":"http://img1.qunarzz.com/sight/source/1606/85/c6b6bad1b977e.jpg_r_640x214_5c638941.jpg",
+          "title":"北京清凉避暑胜地",
+          "msg":"到大自然中享受“天然空调”的清凉"
+        },
+        {
+          "id":"03",
+          "imgUrl":"http://img1.qunarzz.com/sight/source/1606/85/c6b6bad1b977e.jpg_r_640x214_5c638941.jpg",
+          "title":"北京必游TOP10",
+          "msg":"来北京必去的景点非这些地方莫属"
+        },
+        {
+          "id":"04",
+          "imgUrl":"http://img1.qunarzz.com/sight/source/1606/85/c6b6bad1b977e.jpg_r_640x214_5c638941.jpg",
+          "title":"学生最爱的博物馆",
+          "msg":"周末干嘛？北京很多博物馆已经免费开放啦"
+        }
+      ] 
+    },
+    {
+      "city":"上海",
+      "iconsList":[
+        {
+          "id": "01",
+          "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+          "title":"这就是上海"
+        },
+        {
+          "id": "02",
+          "imgUrl":
+            "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+          "title": "必游榜单"
+        },
+        {
+          "id": "03",
+          "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/hotel.png",
+          "title": "夏日玩水"
+        },
+        {
+          "id": "04",
+          "imgUrl":
+            "https://s.qunarzz.com/homenode/images/touchheader/flight.png",
+          "title": "主题公园"
+        },
+        {
+          "id": "05",
+          "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/train.png",
+          "title": "动植物园"
+        },
+        {
+          "id": "06",
+          "imgUrl":
+            "https://s.qunarzz.com/homenode/images/touchheader/package.png",
+          "title": "故宫"
+        },
+        {
+          "id": "07",
+          "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/piao.png",
+          "title":"一日游"
+        },
+        {
+          "id": "08",
+          "imgUrl":"https://img1.qunarzz.com/piao/fusion/1803/54/35899492b1302802.png",
+          "title": "公园"
+        }
+      ],
+      "hotList":[
+        {
+          "id": "01",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+          "title":"故宫",
+          "mark":"20"
+        },
+        {
+          "id":"02",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+          "title":"十渡聚龙湾玻璃栈道",
+          "mark":"35"
+        },
+        {
+         "id": "03",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+          "title":"八达岭长城",
+          "mark":"25"
+        },
+        {
+          "id": "04",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+          "title":"水立方",
+          "mark":"14"
+        },
+        {
+          "id": "05",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+          "title":"定陵",
+          "mark":"50"
+        }
+      ],
+      "likeList":[
+        {
+          "id":"01",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_200x200_36727f69.jpg",
+          "title":"金海湖风景区",
+          "msg":"1341",
+          "pre":"18.8",
+          "map":"平谷区"
+        },
+        {
+          "id":"02",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_200x200_36727f69.jpg",
+          "title":"北京国际鲜花港",
+          "msg":"1916",
+          "pre":"24.9",
+          "map":"顺义区"
+        },
+        {
+          "id":"03",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_200x200_36727f69.jpg",
+          "title":"水立方",
+          "msg":"3263",
+          "pre":"14",
+          "map":"奥林匹克"
+        },
+        {
+          "id":"04",
+          "imgUrl":"http://img1.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_200x200_36727f69.jpg",
+          "title":"北京欢乐谷区",
+          "msg":"54671",
+         " pre":"49",
+          "map":"朝阳区"
+        }
+      ],
+      "vacationList":[
+        {
+          "id":"01",
+          "imgUrl":"http://img1.qunarzz.com/sight/source/1606/85/c6b6bad1b977e.jpg_r_640x214_5c638941.jpg",
+         "title":"漂流勇进，烧烤露营",
+          "msg":"轻松水上漂，任我乐逍遥"
+        },
+        {
+          "id":"02",
+          "imgUrl":"http://img1.qunarzz.com/sight/source/1606/85/c6b6bad1b977e.jpg_r_640x214_5c638941.jpg",
+          "title":"北京清凉避暑胜地",
+          "msg":"到大自然中享受“天然空调”的清凉"
+        },
+        {
+          "id":"03",
+          "imgUrl":"http://img1.qunarzz.com/sight/source/1606/85/c6b6bad1b977e.jpg_r_640x214_5c638941.jpg",
+          "title":"北京必游TOP10",
+          "msg":"来北京必去的景点非这些地方莫属"
+        },
+        {
+          "id":"04",
+          "imgUrl":"http://img1.qunarzz.com/sight/source/1606/85/c6b6bad1b977e.jpg_r_640x214_5c638941.jpg",
+          "title":"学生最爱的博物馆",
+          "msg":"周末干嘛？北京很多博物馆已经免费开放啦"
+        }
+      ] 
+    }
+  ]
+
+
+}
